@@ -1,0 +1,7 @@
+
+Chapter-1
+
+Suppose originally you checked out a feature branch out of the master branch and because
+of some failure you hit this issue. You can check the ref of the header file it should 
+be corrupted or no value in it. Ideally, this file supposes to keep the commit hash value.
+
