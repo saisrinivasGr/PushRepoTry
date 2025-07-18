@@ -1,4 +1,8 @@
 
 
 Chapter -1
-    -WE Meet Nick, Tom, Daisy And Jordan 
+    -WE Meet Nick, Tom, Daisy And Jordan, Mathive
+     Copy .git from new project folder and replace your original .git folder.
+
+     git is not able to figure out the reference and you may see this issue if the
+     reference head is corrupted.
