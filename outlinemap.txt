@@ -5,4 +5,4 @@ Chapter -1
      Copy .git from new project folder and replace your original .git folder.
 
      git is not able to figure out the references and you may see this issue if the
-     reference head is corrupted.
+     reference head is corrupted commit check.
